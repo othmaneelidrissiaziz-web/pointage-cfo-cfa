@@ -1,5 +1,5 @@
 // Fonctionnement hors connexion : l'application, le modèle Excel, les plans et les bibliothèques restent sur le téléphone.
-const V = "pointage-573336045f";
+const V = "pointage-e721e839ec";
 const PRECACHE = ["./", "./index.html", "./fb.js", "./firebase-config.js", "./modele_classeur.b64.txt", "./seed_pointages.json", "./manifest.webmanifest",
   "./icon-192.png", "./icon-512.png", "./plans/plan_R1.jpg", "./plans/plan_R2.jpg", "./plans/plan_SS1.jpg", "./plans/plan_RDC.jpg"];
 const HOSTS = ["www.gstatic.com", "cdnjs.cloudflare.com", "fonts.googleapis.com", "fonts.gstatic.com"];
